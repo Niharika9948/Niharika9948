@@ -64,17 +64,7 @@ Hi! I’m Niharika, a passionate B.Tech student with a growing interest in softw
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niharika9948&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika9948&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🎯 Goals
 
